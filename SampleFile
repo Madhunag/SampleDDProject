@@ -2,4 +2,5 @@ This is Sample DollarDaysFile
 Line 1 :This line is added by Gayathri from local repo after cloning from github repo of Madhu.
 Line 2 :This line is added by Gayathri from Remote repo i.e Github.
 Line 3 :This line is added by Gayathri from local repo after pulling from Github.
+Line 4 :This line is added by Gayathri .Pushed it back to Github until line 3.Now modified the parent folder name and added line 4 from local repo.
 
