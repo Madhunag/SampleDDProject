@@ -4,7 +4,14 @@ Line 2 :This line is added by Gayathri from Remote repo i.e Github.
 Line 3 :This line is added by Gayathri from local repo after pulling from Github.
 Line 4 :This line is added by Gayathri .Pushed it back to Github until line 3.Now modified the parent folder name and added line 4 from local repo.
 Line 5 :This line is added by Gayathri from Remote repo-github.
-commit by madhu
+<<<<<<< HEAD
 
 
+
+=======
+Line 6 :This line is added by Madhuri from Remote repo-github
+Line 7 :This line is added by Madhuri from Local repo
+
+
+>>>>>>> b0b9d6609df1871411940d8941c06348d62f45e6
 Adding extra line here: hiiii... from local repo without pulling code from github.
